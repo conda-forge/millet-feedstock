@@ -1,5 +1,5 @@
 context:
-  version: "0.14.9"
+  version: "0.15.0"
 
 package:
   name: millet
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/azdavis/millet/archive/v${{ version }}.tar.gz
-  sha256: 5efff3cafade17b33a8b9b2748a8c064dbd51932934de01f8d2a14c88ac829c5
+  sha256: 32e76069e95e17dc00cd3ae6823300dde846b305633aeb571a9999e4d30bd1b9
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
